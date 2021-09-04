@@ -3,7 +3,7 @@
 
 ## 💬 About me:
 - Im JavaScript and Java developer.
-- Im from spain
+- Im from spain.
 
 ## 📅 Hobbies:
 - Learn.
