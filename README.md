@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Dxngaa</h1>
+<h3 align="center">Software engineer, developer and Discord configurator.</h3>
 
-<!--
-**Dxngaa/Dxngaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💬 About me:
+- Im JavaScript and Java developer.
+- Im from spain
 
-Here are some ideas to get you started:
+## 📅 Hobbies:
+- Learn.
+- Read.
+- Play videogames.
+- Watch series and Twitch streams.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Current Project:
+- [Zanix *(Discord Bot)*](https://zanix.ml)
+
+## 🌍 Discord Status:
+
+<a href="https://discord.com">
+  <img src="https://lanyard-profile-readme.vercel.app/api/458707871597854731">
+</a>
